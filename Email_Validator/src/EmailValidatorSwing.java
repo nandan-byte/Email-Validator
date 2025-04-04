@@ -55,7 +55,7 @@ public class EmailValidatorSwing extends JFrame {
     private void validateEmail() {
         String email = emailfield.getText();
         if (isValidEmail(email)) {
-            resultfield.setText(email + " is Valid redy to go.");
+            resultfield.setText(email + " is Valid ready to go.");
             resultfield.setForeground(Color.GREEN);
             resultfield.setFont(new Font("Comic Sans MS", Font.ITALIC, 20));
             emailfield.setCaretColor(Color.green);
