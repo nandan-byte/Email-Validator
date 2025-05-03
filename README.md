@@ -9,9 +9,6 @@ A simple and efficient Java-based Email Validator that checks the syntactic corr
 - Instant validation results on user input
 - Lightweight and beginner-friendly
 
-## 🖼️ Preview
-
-![App Screenshot](screenshot.png) <!-- Add your actual screenshot file here -->
 
 ## 🛠️ Tech Stack
 
